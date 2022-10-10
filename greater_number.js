@@ -4,11 +4,11 @@ let a = 10;
 
 let b = 20;
 
-if(a < b){
+if(a > b){
 
-	console.log("a is ");
+	console.log("a is greater");
 
 }else{
 
-	console.log("b is");
+	console.log("b is greater");
 }
